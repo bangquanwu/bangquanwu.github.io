@@ -1,0 +1,86 @@
+{
+  "id": "3678875",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "123",
+  "glyphs": [
+    {
+      "icon_id": "666893",
+      "name": "系统返回",
+      "font_class": "fanhui",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "448586",
+      "name": "择律-公用-更多",
+      "font_class": "more",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "658008",
+      "name": "多语言",
+      "font_class": "duoyuyan",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "4933428",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "5651344",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "1277492",
+      "name": "苹果",
+      "font_class": "pingguo",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "2075246",
+      "name": "安卓",
+      "font_class": "anzhuo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "20226397",
+      "name": "比分",
+      "font_class": "bifen",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "28521374",
+      "name": "员工推荐购车奖励申请流程-03",
+      "font_class": "tuijian",
+      "unicode": "e9ac",
+      "unicode_decimal": 59820
+    },
+    {
+      "icon_id": "2170932",
+      "name": "首页-首页",
+      "font_class": "shouye",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5809221",
+      "name": "新闻1",
+      "font_class": "xinwen",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    }
+  ]
+}
